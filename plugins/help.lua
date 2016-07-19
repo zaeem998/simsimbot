@@ -11,7 +11,7 @@ local help_text
 function help:init()
 
 	local commandlist = {}
-	help_text = '*Simsimi bot talker*\n`Subscribe to the Channel` https://telegram.me/WathiqApi\n*Dev:*`Wathiq` @IlulI\n'
+	help_text = 'اهلا بك في قلئمه المساعده  رجائن تابع القناه https://telegram.me/joinchat/CtRzsz9zGhGrSziqr--tZg واي استفسار راجه المطور @m1_l1'
 
 	for _,plugin in ipairs(self.plugins) do
 		if plugin.command then
