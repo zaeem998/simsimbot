@@ -11,7 +11,7 @@ local help_text
 function help:init()
 
 	local commandlist = {}
-	help_text = 'اهلا بك في قلئمه المساعده  رجائن تابع القناه https://telegram.me/joinchat/CtRzsz9zGhGrSziqr--tZg واي استفسار راجه المطور @m1_l1'
+	help_text = ' https://telegram.me/joinchat/CtRzsz9zGhGrSziqr--tZg         DEV : @m1_l1'
 
 	for _,plugin in ipairs(self.plugins) do
 		if plugin.command then
