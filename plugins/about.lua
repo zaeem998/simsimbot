@@ -18,7 +18,7 @@ function about:action(msg)
 
 	--local output = self.config.about_text .. ''
 	    local aa = '['..msg.chat.first_name..'](https://telegram.me/'..(msg.chat.username or msg.chat.first_name or "اية الزائر الكريم")..')\n'
-    	local an = '\nDev @iluli \n'
+    	local an = '\nDev @m1_l1 \n'
 		local output = 'اهلاأ بك '..aa..'\n'.. self.config.about_text .. '\n V '..bot.version..','..an..'\n'
 
 	if (msg.new_chat_participant and msg.new_chat_participant.id == self.info.id)
