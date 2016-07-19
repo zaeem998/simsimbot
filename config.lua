@@ -9,7 +9,7 @@ return {
 تكلم معي وسوف اقوم
 بالرد عليك تحذيررر
 ممنوع السب مع البوت
-♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️
+لمزيد من المعلومات تابع قناه  المطور https://telegram.me/joinchat/CtRzsz9zGhGrSziqr--tZg
 	]],
 	simsimi_key = '41250a68-3cb5-43c8-9aa2-d7b3caf519b1', 
 	lang = 'ar','en','af','bg','ca','ch','cs','cy','da','de','el','es','eu','fi','fr','he','hi','hr','hu','id','it','ja','kh','ko','lt','ml','ms','nb','nl','pa','ph','pl','pt','ro','rs','ru','sk','sv','ta','te','th','tr','uk','vn','zh',
